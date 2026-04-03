@@ -1,0 +1,10 @@
+{
+  "Dokdok": {
+    "password_hash": "d0657c88d07e3c7d72a60d4448358a24ee04a6d4d2e2c81741891b986bb18f30",
+    "role": "admin"
+  },
+  "04": {
+    "password_hash": "60ce18775b1c36b369466e4968185f5fdddb63b16b15c382889032d43086b58e",
+    "role": "viewer"
+  }
+}
